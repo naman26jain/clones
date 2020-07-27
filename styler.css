@@ -1,0 +1,68 @@
+
+.butt {
+  background-color: blue; 
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.ro{
+  display: table;
+  width: 100%;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.col {
+  float: left;
+  width: 25%;
+  padding: 5px;
+  padding-right: 10px;
+  display: table-cell;
+
+}
+
+/* Clear floats after image containers */
+.ro::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#text{
+
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+#saman{
+  text-align: left;
+  padding-left: 22px;
+  padding-right: 10px
+
+.neeche{
+  background-color: #FAFAFA;
+  color: #505050;
+  padding: 40px 0px;
+  position:relative; top:20px;
+}
+.fir{
+  padding-bottom: 6px;
+}
+table{
+  border-collapse: separate;
+}
+#first{
+  border-right: 7px solid black;
+position: relative; left:28px;
+}
+.second{
+  margin-right: 70px;
+}
+.third{
+  margin-right: 70px;
+}
+.
